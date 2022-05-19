@@ -1,7 +1,6 @@
 # API project_Header_parser
 
 User story: 
-User story: 
 
 1. A request to /api/whoami should return a JSON object with your IP address in the ipaddress key. => from request.ip
 
